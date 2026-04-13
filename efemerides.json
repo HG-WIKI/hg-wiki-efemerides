@@ -1,0 +1,480 @@
+{
+  "01-01": [
+    {
+      "titulo": "Año Nuevo",
+      "desc": "Celebración internacional del Año Nuevo",
+      "url": "/search/label/Año%20Nuevo",
+      "imagen": "https://via.placeholder.com/400x250/007bff/ffffff?text=Año+Nuevo"
+    }
+  ],
+  "01-02": [
+    {
+      "titulo": "Día del Policía en Argentina",
+      "desc": "Homenaje a la labor policial",
+      "url": "/search/label/Policiales",
+      "imagen": "https://via.placeholder.com/400x250/0066cc/ffffff?text=Día+del+Policía"
+    }
+  ],
+  "01-06": [
+    {
+      "titulo": "Día de Reyes",
+      "desc": "Celebración de la Epifanía",
+      "url": "/search/label/Tradiciones",
+      "imagen": "https://via.placeholder.com/400x250/28a745/ffffff?text=Día+de+Reyes"
+    }
+  ],
+  "02-14": [
+    {
+      "titulo": "Día de San Valentín",
+      "desc": "Día del Amor y la Amistad",
+      "url": "/search/label/San%20Valentín",
+      "imagen": "https://via.placeholder.com/400x250/ff69b4/ffffff?text=San+Valentín"
+    }
+  ],
+  "03-01": [
+    {
+      "titulo": "Día de la Cero Discriminación",
+      "desc": "Promovido por la ONU",
+      "url": "/search/label/Discriminación",
+      "imagen": "https://via.placeholder.com/400x250/6f42c1/ffffff?text=Cero+Discriminación"
+    }
+  ],
+  "03-03": [
+    {
+      "titulo": "Dia Internacional de los escritores",
+      "desc": "El rol de los escritores en la vida diaria",
+      "url": "https://www.hectorgonzalez.ar/2025/03/3-de-Marzo-Dia-de-los-Escritores.html",
+      "imagen": "https://via.placeholder.com/400x250/2e8b57/ffffff?text=Vida+Silvestre"
+    }
+  ],
+  "03-04": [
+    {
+      "titulo": "Dia de la Fundacion de san Jose de la Dormida",
+      "desc": "Corazón del Camino Real",
+      "url": "https://www.hectorgonzalez.ar/2026/03/efemeride-4-marzo-fundacion-San-Jose-Dormida.html",
+      "imagen": "https://via.placeholder.com/400x250/2e8b57/ffffff?text=Vida+Silvestre"
+    }
+  ],
+  "03-05": [
+    {
+      "titulo": "Dia Mundial de la Eficiencia Energetica",
+      "desc": "Pequeños gestos para un impacto global.",
+      "url": "https://www.hectorgonzalez.ar/2026/02/5-de-Marzo-Dia-Mundial-de-Eficiencia-Energetica.html",
+      "imagen": "https://via.placeholder.com/400x250/2e8b57/ffffff?text=Vida+Silvestre"
+    }
+  ],
+  "03-07": [
+    {
+      "titulo": "Dia Mundial del Campo",
+      "desc": "El latido de la tierra y el motor de las naciones.",
+      "url": "https://www.hectorgonzalez.ar/2025/03/7-de-marzo-dia-del-campo.html",
+      "imagen": "https://via.placeholder.com/400x250/2e8b57/ffffff?text=Vida+Silvestre"
+    }
+  ],
+  "03-08": [
+    {
+      "titulo": "Día Internacional de la Mujer",
+      "desc": "Lucha por los derechos de las mujeres",
+      "url": "https://www.hectorgonzalez.ar/2024/03/efemerides-8-marzo-invertir-en-las-mujeres.html",
+      "imagen": "https://via.placeholder.com/400x250/e83e8c/ffffff?text=Día+de+la+Mujer"
+    }
+  ],
+  "03-09": [
+    {
+      "titulo": "Día del tamborcito de tacuari",
+      "desc": "El latido de Tacuarí: Pedro Ríos y el sacrificio de la infancia en la Revolución",
+      "url": "https://www.hectorgonzalez.ar/2026/03/efemeride-9-de-Marzo-El-tamborcito-Tacuari.html",
+      "imagen": "https://via.placeholder.com/400x250/e83e8c/ffffff?text=Día+de+la+Mujer"
+    }
+  ],
+  "03-11": [
+    {
+      "titulo": "Alexander Fleming: El hombre que cambió la historia de la medicina",
+      "desc": "El legado de Alexander Fleming y la revolución de la penicilina",
+      "url": "https://www.hectorgonzalez.ar/2026/03/Efemeride-11-marzo-Alexander-Fleming-la-penicilina.html",
+      "imagen": ""
+    }
+  ],
+  "03-12": [
+    {
+      "titulo": "Día del Escudo Nacional Argentino",
+      "desc": "Creación del Escudo Nacional",
+      "url": "https://www.hectorgonzalez.ar/2024/03/efemerides-12-marzo-escudo-nacional.html",
+      "imagen": "https://via.placeholder.com/400x250/f0ad4e/ffffff?text=Escudo+Nacional"
+    }
+  ],
+  "03-14": [
+    {
+      "titulo": "Día de las Matemáticas",
+      "desc": "Una celebración global de la lógica, la creatividad y el razonamiento.",
+      "url": "https://www.hectorgonzalez.ar/2026/03/efemeride-de-hoy-14-de-marzo-dia-de-las.html",
+      "imagen": "https://via.placeholder.com/400x250/f0ad4e/ffffff?text=Escudo+Nacional"
+    }
+  ],
+  "03-15": [
+    {
+      "titulo": "Día de la Fundacion de Colonia Caroya",
+      "desc": "Colonia Caroya es un símbolo de resiliencia y cultura del trabajo, reconocida por la UNESCO",
+      "url": "https://www.hectorgonzalez.ar/2026/03/15-de-marzo-fundacion-colonia-caroya.html",
+      "imagen": "https://via.placeholder.com/400x250/17a2b8/ffffff?text=Derechos+del+Consumidor"
+    }
+  ],
+  "03-16": [
+    {
+      "titulo": "Celebracion del dia del Cura Brochero",
+      "desc": "El cura gaucho es el patrono de Córdoba",
+      "url": "https://www.hectorgonzalez.ar/2024/03/efemerides-16-de-marzo-brochero-patrono-de-cordoba.html",
+      "imagen": "https://via.placeholder.com/400x250/17a2b8/ffffff?text=Derechos+del+Consumidor"
+    }
+  ],
+  "03-18": [
+    {
+      "titulo": "La Recreación (el juego) un Derecho y no un Privilegio",
+      "desc": "Esta jornada nos convoca a todos —educadores, familias y ciudadanos— a poner en valor los espacios de ocio creativo",
+      "url": "https://www.hectorgonzalez.ar/2026/03/el-juego-un-Derecho-no-un-Privilegio.html",
+      "imagen": "https://via.placeholder.com/400x250/17a2b8/ffffff?text=Derechos+del+Consumidor"
+    }
+  ],
+  "03-19": [
+    {
+      "titulo": "Fundación del Club Atlético Belgrano de Cordoba",
+      "desc": "Belgrano: El Legado del Algarrobo. De la Rebeldía Juvenil a la Identidad Celeste",
+      "url": "https://www.hectorgonzalez.ar/2026/03/efemeride-19-marzo-fundacion-belgrano-cordoba.html",
+      "imagen": "https://via.placeholder.com/400x250/17a2b8/ffffff?text=Derechos+del+Consumidor"
+    }
+  ],
+  "03-20": [
+    {
+      "titulo": "Equinoccio de Otoño",
+      "desc": "Comienza el otoño en el hemisferio sur",
+      "url": "https://www.hectorgonzalez.ar/2026/03/hoy-20-marzo-equinoccio-otonio.html",
+      "imagen": "https://via.placeholder.com/400x250/fdc134/ffffff?text=Equinoccio"
+    }
+  ],
+  "03-21": [
+    {
+      "titulo": "Dia de la Poesia",
+      "desc": "La poesia sigue siendo ese puente necesario entre nuestro pasado más remoto y el futuro que intentamos descifrar",
+      "url": "https://www.hectorgonzalez.ar/2024/03/efemerides-21-de-marzo-dia-de-la-poesia.html",
+      "imagen": "https://via.placeholder.com/400x250/fdc134/ffffff?text=Equinoccio"
+    }
+  ],
+  "03-22": [
+    {
+      "titulo": "Día Mundial del Agua",
+      "desc": "Concienciación sobre el cuidado del agua",
+      "url": "https://www.hectorgonzalez.ar/2026/03/efemeride-de-hoy-22-de-marzo-dia.html",
+      "imagen": "https://via.placeholder.com/400x250/00a1b0/ffffff?text=Día+del+Agua"
+    }
+  ],
+  "03-23": [
+    {
+      "titulo": "Día de la Consolidacion Democratica",
+      "desc": "Alfonsín y la Plaza de la Unidad: Lecciones de los primeros 100 días de Democracia",
+      "url": "https://www.hectorgonzalez.ar/2026/03/efemeride-consolidacion-democracia-argentina.html",
+      "imagen": "https://via.placeholder.com/400x250/00a1b0/ffffff?text=Día+del+Agua"
+    }
+  ],
+  "03-24": [
+    {
+      "titulo": "Día de la Memoria por la Verdad y la Justicia",
+      "desc": "Golpe de Estado en Argentina (1976)",
+      "url": "https://www.hectorgonzalez.ar/2026/03/efemeride-de-hoy-24-de-marzo-dia-de-la.html",
+      "imagen": "https://hectorgonzalez.short.gy/24-de-marzo"
+    }
+  ],
+  "03-25": [
+    {
+      "titulo": "El Retorno de Rosas y la Primera Conquista del Desierto",
+      "desc": "Orden, territorio y el fin de una expedición estratégica",
+      "url": "https://www.hectorgonzalez.ar/2026/03/efemeride-de-hoy-24-de-marzo-dia-de-la.html",
+      "imagen": "https://hectorgonzalez.short.gy/conquista-desierto-1833"
+    }
+  ],
+  "03-26": [
+    {
+      "titulo": "🌎 26 de Marzo: Día del MERCOSUR",
+      "desc": "Unidad, Integración y Futuro para el Cono Sur",
+      "url": "https://www.hectorgonzalez.ar/2026/03/26-de-marzo-dia-mercosur.html",
+      "imagen": "https://hectorgonzalez.short.gy/mercosur?text=Mercosur"
+    }
+  ],
+  "03-27": [
+    {
+      "titulo": "Día del Teatro",
+      "desc": "El arte de vernos a nosotros mismos sobre el escenario",
+      "url": "https://www.hectorgonzalez.ar/2026/03/27-de-marzo-dia-del-teatro.html",
+      "imagen": "https://hectorgonzalez.short.gy/dia-del-teatro"
+    }
+  ],
+  "03-30": [
+    {
+      "titulo": "El Grito de Pan, Paz y Trabajo",
+      "desc": "La movilización que desafió el silencio de la dictadura",
+      "url": "https://www.hectorgonzalez.ar/2026/03/30-de-marzo-el-grito-pan-paz-trabajo.html",
+      "imagen": "https://hectorgonzalez.short.gy/30-de-marzo-1982"
+    }
+  ],
+  "03-31": [
+    {
+      "titulo": "Día Nacional del Agua",
+      "desc": "Mes del Agua. Entre el Derecho Humano y el Desafío Global",
+      "url": "https://www.hectorgonzalez.ar/2026/03/31-de-marzo-dia-agua-ciclo-del-agua-que-es.html",
+      "imagen": "https://hectorgonzalez.short.gy/agua"
+    }
+  ],
+  "04-01": [
+    {
+      "titulo": "Inicio del Plan de Convertibilidad",
+      "desc": "El nacimiento del Uno a Uno y el adiós a la remarcación diaria",
+      "url": "https://www.hectorgonzalez.ar/2026/03/1-Abril-Inicio-Plan-de-Convertivilidad.html",
+      "imagen": "https://hectorgonzalez.short.gy/convertivilidad-1991?text=Convertibilidad-1991"
+    }
+  ],
+  "04-02": [
+    {
+      "titulo": "Día del Veterano y de los Caídos en la Guerra de Malvinas",
+      "desc": "Homenaje a los héroes de Malvinas",
+      "url": "https://www.hectorgonzalez.ar/2025/01/efemerides-2-abril-la-guerra-de-las-malvinas.html",
+      "imagen": "https://hectorgonzalez.short.gy/las-malvinas?text=Malvinas"
+    }
+  ],
+  "04-06": [
+    {
+      "titulo": "Día Mundial de la Actividad Fisica",
+      "desc": "🏃‍♂️ ¡Muévete por tu salud!",
+      "url": "https://www.hectorgonzalez.ar/2026/04/6-de-abril-dia-mundial-actividad-fisica.html",
+      "imagen": "https://hectorgonzalez.short.gy/actividad-fisica?text=Salud"
+    }
+  ],
+  "04-07": [
+    {
+      "titulo": "Día Mundial de la Salud",
+      "desc": "Promoción de la salud global",
+      "url": "https://www.hectorgonzalez.ar/2026/04/7-de-abril-dia-mundial-salud.html",
+      "imagen": "https://hectorgonzalez.short.gy/mundial-salud"
+    }
+  ],
+  "04-08": [
+    {
+      "titulo": "Día Mundial de la Empanada",
+      "desc": "Cada 8 de abril se celebra el Día Internacional de la Empanada",
+      "url": "https://www.hectorgonzalez.ar/2026/04/8-de-abril-se-celebra-el-dia-empanada.html",
+      "imagen": "https://hectorgonzalez.short.gy/dia-empanada"
+    }
+  ],
+  "04-09": [
+    {
+      "titulo": "Fundacion de Villa Giardino",
+      "desc": "Villa Giardino: El Jardín de Punilla",
+      "url": "https://www.hectorgonzalez.ar/2026/04/villa-giardino-el-jardin-de-punilla.html",
+      "imagen": "#"
+    }
+  ],
+  "04-10": [
+    {
+      "titulo": "Dia Mundial de la Ciencia y  la Tecnologia",
+      "desc": "El Genio Detrás de la Fecha: Bernardo Houssay",
+      "url": "https://www.hectorgonzalez.ar/2026/04/dia-ciencia-tecnologia-bernardo-houssy.html",
+      "imagen": ""
+    }
+  ],
+  "04-13": [
+    {
+      "titulo": "Día Mundial del Beso",
+      "desc": "La distinción cultural entre el norte y el sur no impide que el continente refuerce sus lazos históricos bajo un mismo ideal de paz.",
+      "url": "https://www.hectorgonzalez.ar/2026/04/efemeride-hoy-13-abril-dia-mundial-beso.html",
+      "imagen": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiZ_tR7eDohbrDART0Am_39jW-o29p0s_XM4q-ahyLuvO5oA5xhAtgoqBq1OYJe-nV0-flLW8gsHL1DxRYgNztBcrz-Px2VhoZrqsm1dPjZZZv4SfcUYddyKTahfUdrG8cRlrgpZcxAoVaCDi_fr3Ffl8Oj5I3i7sPPEfT9saUVvJU3rGbr4EZtcXuIOep/w640-h348-rw/Dia-del-beso.webp?text=Dia+del+Beso"
+    }
+  ],
+  "04-14": [
+    {
+      "titulo": "Día de las Americas",
+      "desc": "La distinción cultural entre el norte y el sur no impide que el continente refuerce sus lazos históricos bajo un mismo ideal de paz.",
+      "url": "https://www.hectorgonzalez.ar/2024/04/14-de-abril-dia-de-las-americas.html",
+      "imagen": "https://via.placeholder.com/400x250/8b4513/ffffff?text=Dia+Americas"
+    }
+  ],
+  "04-19": [
+    {
+      "titulo": "Día del Aborigen Americano",
+      "desc": "Reivindicación de los pueblos originarios",
+      "url": "/search/label/Pueblos%20Originarios",
+      "imagen": "https://via.placeholder.com/400x250/8b4513/ffffff?text=Pueblos+Originarios"
+    }
+  ],
+  "04-22": [
+    {
+      "titulo": "Día de la Tierra",
+      "desc": "Concienciación ambiental",
+      "url": "/search/label/Medio%20Ambiente",
+      "imagen": "https://via.placeholder.com/400x250/28a745/ffffff?text=Día+de+la+Tierra"
+    }
+  ],
+  "04-23": [
+    {
+      "titulo": "Día del Libro",
+      "desc": "El arte de vernos a nosotros mismos sobre el escenario",
+      "url": "/search/label/Libros",
+      "imagen": "https://via.placeholder.com/400x250/fd7e14/ffffff?text=Día+del+Libro"
+    }
+  ],
+  "05-01": [
+    {
+      "titulo": "Día del Trabajador",
+      "desc": "Día Internacional de los Trabajadores",
+      "url": "/search/label/Trabajo",
+      "imagen": "https://via.placeholder.com/400x250/dc3545/ffffff?text=Día+del+Trabajador"
+    }
+  ],
+  "05-11": [
+    {
+      "titulo": "Día del Himno Nacional Argentino",
+      "desc": "Creación del Himno Nacional",
+      "url": "/search/label/Fechas%20Patrias",
+      "imagen": "https://via.placeholder.com/400x250/ffc107/000000?text=Himno+Nacional"
+    }
+  ],
+  "05-18": [
+    {
+      "titulo": "Día de la Escarapela",
+      "desc": "Símbolo patrio argentino",
+      "url": "/search/label/Fechas%20Patrias",
+      "imagen": "https://via.placeholder.com/400x250/007bff/ffffff?text=Escarapela"
+    }
+  ],
+  "05-25": [
+    {
+      "titulo": "Revolución de Mayo",
+      "desc": "Primer gobierno patrio en Argentina (1810)",
+      "url": "/search/label/Revolución%20de%20Mayo",
+      "imagen": "https://via.placeholder.com/400x250/28a745/ffffff?text=Revolución+de+Mayo"
+    }
+  ],
+  "06-10": [
+    {
+      "titulo": "Día de la Afirmación de los Derechos Argentinos sobre las Malvinas",
+      "desc": "Reafirmación de soberanía",
+      "url": "/search/label/Malvinas",
+      "imagen": "https://via.placeholder.com/400x250/004085/ffffff?text=Malvinas"
+    }
+  ],
+  "06-15": [
+    {
+      "titulo": "Día del Libro en Argentina",
+      "desc": "Celebración del Día Nacional del Libro",
+      "url": "/search/label/Libros",
+      "imagen": "https://via.placeholder.com/400x250/fd7e14/ffffff?text=Día+del+Libro"
+    }
+  ],
+  "06-20": [
+    {
+      "titulo": "Día de la Bandera",
+      "desc": "Homenaje a Manuel Belgrano",
+      "url": "/search/label/Bandera",
+      "imagen": "https://via.placeholder.com/400x250/00a1b0/ffffff?text=Día+de+la+Bandera"
+    }
+  ],
+  "07-09": [
+    {
+      "titulo": "Día de la Independencia Argentina",
+      "desc": "Declaración de la Independencia (1816)",
+      "url": "/search/label/Independencia",
+      "imagen": "https://via.placeholder.com/400x250/f0ad4e/ffffff?text=Independencia"
+    }
+  ],
+  "08-17": [
+    {
+      "titulo": "Paso a la Inmortalidad del Gral. San Martín",
+      "desc": "Fallecimiento del Libertador (1850)",
+      "url": "/search/label/San%20Martín",
+      "imagen": "https://via.placeholder.com/400x250/6c757d/ffffff?text=San+Martín"
+    }
+  ],
+  "09-11": [
+    {
+      "titulo": "Día del Maestro",
+      "desc": "Homenaje a Domingo Faustino Sarmiento",
+      "url": "/search/label/Maestro",
+      "imagen": "https://via.placeholder.com/400x250/17a2b8/ffffff?text=Día+del+Maestro"
+    }
+  ],
+  "09-21": [
+    {
+      "titulo": "Día de la Primavera",
+      "desc": "Comienzo de la primavera",
+      "url": "/search/label/Primavera",
+      "imagen": "https://via.placeholder.com/400x250/e83e8c/ffffff?text=Día+de+la+Primavera"
+    },
+    {
+      "titulo": "Día del Estudiante",
+      "desc": "Celebración de los estudiantes",
+      "url": "/search/label/Estudiante",
+      "imagen": "https://via.placeholder.com/400x250/28a745/ffffff?text=Día+del+Estudiante"
+    }
+  ],
+  "10-12": [
+    {
+      "titulo": "Día del Respeto a la Diversidad Cultural",
+      "desc": "Anteriormente Día de la Raza",
+      "url": "/search/label/Diversidad%20Cultural",
+      "imagen": "https://via.placeholder.com/400x250/ffc107/000000?text=Diversidad+Cultural"
+    }
+  ],
+  "11-10": [
+    {
+      "titulo": "Día de la Tradición",
+      "desc": "Nacimiento de José Hernández",
+      "url": "/search/label/Tradición",
+      "imagen": "https://via.placeholder.com/400x250/fd7e14/ffffff?text=Día+de+la+Tradición"
+    }
+  ],
+  "11-20": [
+    {
+      "titulo": "Día de la Soberanía Nacional",
+      "desc": "Batalla de la Vuelta de Obligado (1845)",
+      "url": "/search/label/Soberanía",
+      "imagen": "https://via.placeholder.com/400x250/004085/ffffff?text=Soberanía+Nacional"
+    }
+  ],
+  "12-08": [
+    {
+      "titulo": "Día de la Inmaculada Concepción",
+      "desc": "Festividad católica",
+      "url": "/search/label/Religión",
+      "imagen": "https://via.placeholder.com/400x250/6f42c1/ffffff?text=Inmaculada+Concepción"
+    }
+  ],
+  "12-10": [
+    {
+      "titulo": "Día de la Restauración de la Democracia",
+      "desc": "Vuelta a la democracia en Argentina (1983)",
+      "url": "/search/label/Democracia",
+      "imagen": "https://via.placeholder.com/400x250/007bff/ffffff?text=Democracia"
+    }
+  ],
+  "12-24": [
+    {
+      "titulo": "Nochebuena",
+      "desc": "Víspera de Navidad",
+      "url": "/search/label/Navidad",
+      "imagen": "https://via.placeholder.com/400x250/dc3545/ffffff?text=Nochebuena"
+    }
+  ],
+  "12-25": [
+    {
+      "titulo": "Navidad",
+      "desc": "Celebración del nacimiento de Jesús",
+      "url": "/search/label/Navidad",
+      "imagen": "https://via.placeholder.com/400x250/28a745/ffffff?text=Navidad"
+    }
+  ],
+  "12-31": [
+    {
+      "titulo": "Fin de Año",
+      "desc": "Celebración de Año Nuevo",
+      "url": "/search/label/Año%20Nuevo",
+      "imagen": "https://via.placeholder.com/400x250/f0ad4e/ffffff?text=Fin+de+Año"
+    }
+  ]
+}
